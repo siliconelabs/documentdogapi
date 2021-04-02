@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DocumentDogApi/DogRestApi.iml" filepath="$PROJECT_DIR$/DocumentDogApi/DogRestApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/documentdogapi.iml" filepath="$PROJECT_DIR$/.idea/documentdogapi.iml" />
+    </modules>
+  </component>
+</project>
